@@ -1,0 +1,32 @@
+.header {
+    grid-area: h;
+    background-color: rebeccapurple;
+}
+
+.header img {
+    width: 20px;
+}
+
+.registerBlock{
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+
+
+.loginBlock {
+    float: right;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+
+
+.loginBlock a {
+    color: white;
+}
+
+.registerBlock a {
+    color: white;
+}

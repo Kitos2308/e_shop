@@ -1,0 +1,41 @@
+.nav {
+    grid-area: n;
+    background-color: purple;
+    padding: 20px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+}
+
+.item a.activeLink {
+    color: gold;
+}
+
+
+.button_color{
+    background-color: white;
+}
+
+.subcategory_css {
+
+background-color: yellow;
+
+
+}
+
+.subcategory_item {
+
+    position: relative;
+    left: 100px;
+
+    display: block;
+     background-color: green;
+    /*overflow: hidden;*/
+
+}
+
+.empty{
+display: none;
+}
